@@ -27,4 +27,4 @@ async def password(ctx, lenght = 10):
 @bot.command()
 async def flip_coin(ctx):
     await ctx.send(flip_coin())
-bot.run("MTE1MjkwMzI0OTAyMDU5MjE3OQ.GlvPdk.9hcqCoGrfjsEPIlr7oE3IDZaSjWiZI6Byf0zNw")
+bot.run("Здесь должен быть ваш токен")
